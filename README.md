@@ -1,89 +1,25 @@
-# Muneer A. (mun9uk-ship-it) 🚀
-### AI Engineering Consultant & Cloud Solutions Specialist
+<h2>About Me</h2>
 
-<details open>
-<summary><b>🇺🇸 View Profile in English (Default)</b></summary>
-<br>
+<p>
+I'm an IT Support professional with 14+ years of experience, currently building hands-on skills in Python and applied AI/ML. I write small, practical scripts to solve real problems — and I'm working through IBM, Google and UPenn certifications in AI, Cloud, and Machine Learning to move into a more technical role.
+</p>
 
-## About Me
-I am an expert **AI Engineering Consultant** specializing in bridging advanced corporate architectures with scalable intelligence. Currently completing a rigorous, industry-grade AI Engineering framework focused heavily on Generative AI, Neural Networks, and production deployment.
+<ul>
+  <li>🎯 <b>Currently learning:</b> Python fundamentals, data validation logic, basic ML models (decision trees), and cloud APIs.</li>
+  <li>☁️ <b>Also experienced in:</b> Cloud platforms (IBM Cloud, Google Cloud), IT support, and workflow automation (UiPath).</li>
+  <li>✉️ <b>Contact:</b> mun9uk@gmail.com</li>
+</ul>
 
-- 🎯 **Core Expertise:** Generative AI & Fine-tuning, Natural Language Processing (NLP), Intelligent Chatbots, and Advanced Data Engineering.
-- ☁️ **Cloud & APIs:** Structuring cloud environments and deploying scalable machine learning models via secure REST APIs.
-- ✉️ **Consultation Requests:** [munguk@gmail.com](mailto:munguk@gmail.com)
+<hr>
 
----
+<h2 dir="rtl">نبذة عني</h2>
 
-## 🛠️ Tech Stack & Badges
-Here is the production-level arsenal I leverage to build robust AI solutions:
+<p dir="rtl">
+أنا محترف دعم تقني بخبرة تزيد عن 14 عاماً، وحالياً أبني مهارات عملية في بايثون والذكاء الاصطناعي التطبيقي. أكتب سكربتات بسيطة وعملية لحل مشاكل حقيقية، وأدرس شهادات من IBM وGoogle وجامعة بنسلفانيا في الذكاء الاصطناعي والحوسبة السحابية وتعلّم الآلة، للانتقال إلى دور تقني أكثر تخصصاً.
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🏗️ Featured Enterprise AI Projects
-
-### 🤖 Intelligent Chatbot & Fine-Tuned LLM Pipeline
-* **Description:** Engineered an enterprise-level NLP chatbot platform utilizing OpenAI Assistants API and customized embeddings to perform semantic search over confidential corporate databases.
-* **Stack:** Python, OpenAI API, Embeddings, Flask.
-
-### 📊 Deep Statistical Data & Predictive Analytics Pipeline
-* **Description:** Built a high-performance analytics architecture designed to process multi-format datasets, performing advanced statistical inference to forecast market trends.
-* **Stack:** R, Python (NumPy, Pandas), SQL, Statistics Models.
-
----
-
-## 🌐 Connect & Collaborate
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneer-ahmed-it-cloud-ai-support)
-
-</details>
-
-<details>
-<summary><b>🇸🇦 عرض الملف الشخصي باللغة العربية</b></summary>
-<br>
-
-<div align="right" dir="rtl">
-
-## نبذة عني
-أنا **مستشار هندسة ذكاء اصطناعي واختصاصي حلول سحابية**. أعمل على سد الفجوة بين البنى التحتية المعقدة للمؤسسات والأنظمة الذكية القابلة للتوسع. أقوم حالياً بإتمام برنامج متقدم في هندسة الذكاء الاصطناعي يركز على نماذج الذكاء الاصطناعي التوليدي، الشبكات العصبية العميقة، ونشر النماذج في بيئات الإنتاج الفعلية.
-
-- 🎯 **الخبرات الأساسية:** تخصيص وضبط النماذج اللغوية (Fine-tuning)، معالجة اللغات الطبيعية (NLP)، بناء المساعدين الذكيين (Chatbots)، وهندسة البيانات الإحصائية.
-- ☁️ **الأنظمة السحابية والربط البرمجي:** بناء هياكل الحوسبة السحابية الآمنة ونشر نماذج تعلم الآلة عبر واجهات برمجة التطبيقات الذكية (REST APIs).
-- ✉️ **للاستشارات والأعمال:** [munguk@gmail.com](mailto:munguk@gmail.com)
-
----
-
-## 🛠️ الترسانة التقنية (Tech Stack)
-مجموعة الأدوات وأطر العمل الاحترافية التي أعتمد عليها في بناء الأنظمة الذكية:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🏗️ المشاريع البارزة للمؤسسات والشركات
-
-### 🤖 تخصيص النماذج اللغوية (LLMs) ودمج المساعدين الذكيين في بيئات العمل
-* **الوصف:** تطوير وهندسة نظام محادثة آلي متقدم (NLP) يعتمد على واجهات OpenAI المتقدمة وتضمين البيانات الحساسة (Embeddings) للقيام بعمليات البحث الدلالي في مستندات الشركات.
-* **التقنيات المستخدمة:** Python, OpenAI API, Embeddings, Flask.
-
-### 📊 خط معالجة البيانات الإحصائية والتحليل التنبئي
-* **الوصف:** تصميم وبناء بنية تحتية لتحليل البيانات واستخراج النماذج الإحصائية التنبئية لدعم اتخاذ القرار وتوقع الاتجاهات المستقبلية للأسواق.
-* **التقنيات المستخدمة:** R, Python (NumPy, SQL), Statistics Models.
-
----
-
-## 🌐 قنوات التواصل والاستشارات الرسمية
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneer-ahmed-it-cloud-ai-support)
-
-</div>
-</details>
+<ul dir="rtl">
+  <li>🎯 <b>أتعلّم حالياً:</b> أساسيات بايثون، منطق التحقق من البيانات، نماذج تعلّم آلة بسيطة (Decision Trees)، وواجهات برمجة السحابة (Cloud APIs).</li>
+  <li>☁️ <b>خبرة إضافية في:</b> المنصات السحابية (IBM Cloud, Google Cloud)، الدعم التقني، وأتمتة العمليات (UiPath).</li>
+  <li>✉️ <b>للتواصل:</b> mun9uk@gmail.com</li>
+</ul>
