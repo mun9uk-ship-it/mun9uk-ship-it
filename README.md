@@ -42,6 +42,7 @@ I'm an IT Support professional with 14+ years of experience, currently building 
 
 Small, practical Python projects — some built to help colleagues, others to apply what I'm learning in AI/ML courses.
 
+- **[Rail AI Safety Simulator](https://github.com/mun9uk-ship-it/rail-ai-safety-simulator)** — AI-powered rail signaling simulator using Isolation Forest to detect track anomalies and trigger emergency braking
 - **[Iris Classifier](https://github.com/mun9uk-ship-it/iris-classifier)** — decision-tree ML example built for an AI Fundamentals course assessment
 - **[ID & Card Validator](https://github.com/mun9uk-ship-it/gov-id-checker-and-bank-card-16-digit-validation)** — Luhn Algorithm implementation for validating ID and bank card numbers
 - **[Time Converter](https://github.com/mun9uk-ship-it/time-converter)** — converts seconds into HH:MM:SS format
